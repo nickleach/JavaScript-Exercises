@@ -111,7 +111,9 @@ function filterLongWords(words, i){
 //Try it with something like charFreq("abbabcbdbabdbdbabababcbcbab").
 // ---------------------
 
-function charFreq(string){
-    new Object(freqListing);
-    for (var x = 0; x <= string.length; x++) {
-     var letter =
+// function charFreq(string){
+//     new Object(freqListing);
+//     for (var x = 0; x <= string.length; x++) {
+//
+
+
